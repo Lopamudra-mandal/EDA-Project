@@ -16,7 +16,3 @@ Here the analysis is made on 20194 samples.
 - Among Cities 'Los Angeles' Played the lead role with 1545 Medals from which 696 was Gold medals.
 - Athletics was the favourite sport.
 - Over all Men and Women contribution for winning Medals has a great difference. Where 82% of medals won by Male participants only 18% medals won by Female participants. But 'Barcelona' was the only City where all the Medals won by only Female participants.
-
-
-
-
